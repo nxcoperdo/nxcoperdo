@@ -11,6 +11,12 @@ I build Python and Node.js software, LLM-powered agents and WhatsApp integration
 
 ## Projects
 
+### Featured
+
+- [gigantya](https://github.com/nxcoperdo/gigantya): online ordering platform for local restaurants in Gigante, Huila. React web client, Node.js/Express API (MySQL, Socket.IO) and Expo mobile app.
+- [mensajes_masivo](https://github.com/nxcoperdo/mensajes_masivo): Daemon Leads, a Node.js platform on the WhatsApp Business Cloud API for mass messaging, lead prospecting and an automated sales agent.
+- [golazo](https://github.com/nxcoperdo/golazo): Flutter app and NestJS + PostgreSQL backend for booking football courts (court types, payments, refunds, chat).
+
 ### Web
 
 - [code_repair_tech](https://github.com/nxcoperdo/code_repair_tech): static portfolio website for Code Repair Tech (HTML, CSS, JavaScript, GSAP).
